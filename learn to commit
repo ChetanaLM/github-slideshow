@@ -1,1 +1,6 @@
-creating new file in my-slide brach to learn commit
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
